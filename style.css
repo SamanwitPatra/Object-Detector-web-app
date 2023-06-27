@@ -1,9 +1,15 @@
+body{
+    background-size:cover;
+}
 .heading
 {
-width: 100%;
-font-size: 25;
-margin: 0%;
+ font-size: 24px;
+ width: 100%;
+ margin-top: auto;
 }
-body{
-    background-size: cover;
+canvas{
+    border: 2px solid black;
+    border-radius: 12px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
 }
